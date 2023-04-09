@@ -1,0 +1,5 @@
+[requires]
+mlpack/3.4.1
+
+[generators]
+cmake
